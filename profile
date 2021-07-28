@@ -1,0 +1,1 @@
+web: gunicorn webpokedex.wsgi --log-file -
